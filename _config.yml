@@ -1,7 +1,7 @@
-title: "Effective Software Testing: A Developer's Guide, by Maurício Aniche"
-description: "Effective Software Testing is a book written by Maurício Aniche and published by Manning"
-keywords: "mauricio aniche, effective software testing"
-url: http://www.effective-software-testing.com
+title: "Simple Object-Oriented Design: A guide to creating clean, maintainable code, by Maurício Aniche"
+description: "Simple Object-Oriented Design is a book written by Maurício Aniche and published by Manning"
+keywords: "mauricio aniche, simple object-oriented design"
+url: http://www.simple-object-oriented-design.com
 
 theme: null
 permalink: /:title
@@ -9,6 +9,6 @@ permalink: /:title
 destination: _site
 future: false
 
-buy_url: "https://www.manning.com/books/effective-software-testing?utm_source=aniche&utm_medium=affiliate&utm_campaign=book_aniche_effective_11_16_21&a_aid=aniche&a_bid=6e66ba23"
+buy_url: "https://www.manning.com/books/simple-object-oriented-design"
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
